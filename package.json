@@ -1,0 +1,20 @@
+{
+  "name": "gradebook-app",
+  "version": "1.0.0",
+  "description": "Calculate the average score",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgegmezdev/gradebook-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgegmezdev/gradebook-app/issues"
+  },
+  "homepage": "https://github.com/jorgegmezdev/gradebook-app#readme"
+}
